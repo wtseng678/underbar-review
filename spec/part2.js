@@ -365,7 +365,6 @@
         var increment = _.once(function() {
           num++;
         });
-
         increment();
         increment();
         increment();
